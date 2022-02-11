@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Olá mundo 👋
 Estou estudando programação e me aprofundando cada vez mais nesse universo.
 - 🌱 Atualmente estou estudando JavaScript.
