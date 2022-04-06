@@ -1,6 +1,6 @@
 ### Olá mundo 👋
 
-Me chamo Leonardo Costa e amo o que eu estou fazendo e aprendendo. Rumo ao próximo nível sempre.
+Me chamo Leonardo Costa amo o que eu estou fazendo e aprendendo. Rumo ao próximo nível sempre.
 
 - 🌱 Atualmente focando os meus estudos na stack de javaScript.
 
